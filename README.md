@@ -10,4 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a great cook
 
-<a href="https://github.com/akshat17-07/resume"> ## My Resume </a>
+## <a href="https://github.com/akshat17-07/resume"> My Resume </a>
