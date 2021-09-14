@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on many projects
 - 🤔 I’m looking for help with some intresting ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: 814-699-2716 akshatharlalka.ah@icloud.com
+- 📫 How to reach me: akshatharlalka.ah@icloud.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a great cook
 
