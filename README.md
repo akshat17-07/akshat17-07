@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/akshat-harlalka-8968bb1b7/m"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="10" height="10" style="vertical-align:bottom"> </a>
+<a href="https://www.linkedin.com/in/akshat-harlalka-8968bb1b7/m"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25" height="25" style="vertical-align:bottom"> </a>
 
 - 🔭 I’m currently working on imporving my skills
 - 🌱 I’m currently learning django, and sql
